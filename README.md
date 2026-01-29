@@ -6,7 +6,7 @@ A comprehensive implementation of **Vector** (linear) and **Skip List** (non-lin
 
 This project implements two fundamental data structures:
 
-### 1. **Vector** (Linear Data Structure)
+### 1. **Vector** (Linear Data Structure),
 - Dynamic array implementation with automatic resizing
 - Provides constant-time random access: **O(1)**
 - Amortized constant-time append: **O(1)***
