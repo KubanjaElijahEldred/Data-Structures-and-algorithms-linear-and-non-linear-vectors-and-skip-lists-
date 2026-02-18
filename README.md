@@ -1,6 +1,6 @@
 # Linear and Non-Linear Data Structures in C
 
-A comprehensive implementation of **Vector** (linear) and **Skip List** (non-linear) data structures with clean interfaces and complete demonstrations.
+A comprehensive implementation of **Vector** (linear) and **Skip List** (non-linear) data structures with clean interfaces and complete demonstrations,
 
 ## 📚 Overview
 
